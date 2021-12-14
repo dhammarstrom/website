@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Daniel Hammarström"
 headless: true
 ---
 
-I'm a theme for Hugo
+Researcher interested in muscle and exercise 

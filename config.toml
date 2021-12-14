@@ -11,7 +11,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "youremail@email.com"   # E-mail address for contact section
+    email                        = "daniel.hammarstrom@inn.no"   # E-mail address for contact section
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
@@ -52,15 +52,23 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon_pack = "fas"
 
 
-# If you don't want to use the default menu, you can define one by yourself
-# [[menu.main]]
-#     name    = "Home"
-#     url     = "/"
-#     weight  = 0
-# [[menu.main]]
-#     name    = "Blog"
-#     url     = "/blog/"
-#     weight  = 1
+ If you don't want to use the default menu, you can define one by yourself
+ [[menu.main]]
+     name    = "Home"
+     url     = "/"
+     weight  = 0
+ [[menu.main]]
+     name    = "Blog"
+     url     = "/blog/"
+     weight  = 1
+ [[menu.main]]
+   name    = "Research"
+   url     = "/research/"
+   weight  = 2
+ [[menu.main]]
+   name    = "Teaching"
+   url     = "/teaching/"
+   weight  = 3
 
 # We only use tag as a taxonomies
 # You can add more by yourself
