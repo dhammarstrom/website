@@ -2,7 +2,7 @@
 title: Daniel Hammarström
 draft: false
 role: PhD, Associate professor
-avatar: images/icon.png
+avatar: images/dh1-blue.jpg
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
   name: Inland Norway University of Applied Sciences
