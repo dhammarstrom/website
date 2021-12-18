@@ -1,0 +1,18 @@
+---
+title: Research
+description: A description of my teaching
+toc: true
+authors: Daniel Hammarström
+bibliography: bibliography.bib
+tags: [research]
+categories:
+series:
+date: '2021-12-14'
+lastmod: '2021-12-14'
+draft: false
+---
+
+We [@khan2020] swsd
+
+
+
